@@ -1,5 +1,5 @@
 os: osx
 arch:
   - ppc64le
-dist: bionic
+dist: focal
 language: matlab
