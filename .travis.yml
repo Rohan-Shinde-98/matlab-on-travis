@@ -1,5 +1,5 @@
-os: linux
+os: osx
 arch:
-  - amd64
-dist: bionic
+  - ppc64le
+# dist: bionic
 language: matlab
